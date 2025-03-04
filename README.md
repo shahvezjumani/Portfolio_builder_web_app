@@ -16,7 +16,8 @@ I'm excited to present my latest project—a fully **Portfolio Builder Web App**
 - **User-Friendly Interface:** Intuitive design for easy editing and navigation.
 
 ## 📸 Video
-[![Watch the Demo](thumbnail-image-url)](https://www.linkedin.com/posts/shahvez-jumani_webdevelopment-reactjs-portfolio-activity-7296833787542315008-KdeL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnd2OYB1n0TfQB8ltq5Xlw3livNWiEtqT4)
+### Click to view video
+[![Watch the Demo](https://github.com/shahvezjumani/Portfolio_builder_web_app/blob/main/video/thumbnail.jpeg)](https://www.linkedin.com/posts/shahvez-jumani_webdevelopment-reactjs-portfolio-activity-7296833787542315008-KdeL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnd2OYB1n0TfQB8ltq5Xlw3livNWiEtqT4)
 
 
 ## 🚀 Getting Started
@@ -27,8 +28,8 @@ I'm excited to present my latest project—a fully **Portfolio Builder Web App**
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/shahvezjumani/Portfolio_builder_web_app
+   cd Portfolio_builder_web_app
    ```
 
 2. Install dependencies:
@@ -38,7 +39,7 @@ I'm excited to present my latest project—a fully **Portfolio Builder Web App**
 
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 The app will run locally at `http://localhost:3000`.
@@ -48,7 +49,6 @@ The app will run locally at `http://localhost:3000`.
 ├── public
 ├── src
 │   ├── components
-│   ├── pages
 │   ├── assets
 │   └── App.js
 ├── .gitignore
@@ -73,5 +73,4 @@ I hope this portfolio web app helps others build a strong online presence. Let m
 
 ---
 
-What do you think of this structure? Let me know if you want me to add anything or make changes! ✨
 
