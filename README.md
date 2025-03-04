@@ -16,7 +16,8 @@ I'm excited to present my latest project—a fully **Portfolio Builder Web App**
 - **User-Friendly Interface:** Intuitive design for easy editing and navigation.
 
 ## 📸 Video
-[![Demo Video](https://github.com/shahvezjumani/Portfolio_builder_web_app/blob/main/video/thumbnail.jpeg)](https://github.com/shahvezjumani/Portfolio_builder_web_app/blob/main/video/Portfolio%20Builder%20Web%20App.mp4)
+[![Watch the Demo](thumbnail-image-url)](https://www.linkedin.com/posts/shahvez-jumani_webdevelopment-reactjs-portfolio-activity-7296833787542315008-KdeL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnd2OYB1n0TfQB8ltq5Xlw3livNWiEtqT4)
+
 
 ## 🚀 Getting Started
 
