@@ -14,7 +14,7 @@ import Login from "./pages/Login.jsx";
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route>
-      <Route path="/" element={<Login />} />
+      <Route path="/" element={<App />} />
       <Route path="/home" element={<App />} />
     </Route>
   )
